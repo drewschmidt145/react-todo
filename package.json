@@ -2,7 +2,7 @@
   "name": "react-todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://drewschmidt145.github.io/react-todo/",
+  "homepage": "https://drewschmidt145.github.io/react-todo",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
